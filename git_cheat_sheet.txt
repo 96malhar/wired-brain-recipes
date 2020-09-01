@@ -1,0 +1,9 @@
+Common Git Commands:
+
+1. git init: initialise a git repository for a project
+2. git config -l --show origin: show configurations and where they come from
+3. echo "# wired-brain-recipes" >> README.md : Add a readme file
+4. git add . : add all file to track changes
+5. git commit -m "first commit" : commit all staged files.
+6. git remote add origin https://github.com/96malhar/wired-brain-recipes.git : connect local repository to the repository on github.
+7. git push -u origin master : push commits on local repository to the github repository.
